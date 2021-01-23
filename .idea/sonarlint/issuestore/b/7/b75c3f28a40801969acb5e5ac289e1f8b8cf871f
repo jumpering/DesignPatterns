@@ -1,0 +1,5 @@
+
+s
+java:S1450"XRemove the "converter" field and declare it as a local variable in the relevant methods.(û“èúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¦âË³ûÿÿÿÿ
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æğáÍ8ëİĞäñ.

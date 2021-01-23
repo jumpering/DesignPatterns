@@ -1,0 +1,19 @@
+@startuml
+Enum TiposBases{
+SERVICIO
+ADMINISTRATIVA
+}
+
+
+BaseCreador <|-down- BaseServicioCreador
+BaseCreador <|-down- BaseAdministrativaCreador
+Base <|-down- BaseServicio
+Base <|-down- BaseAdministrativa
+BaseServicioCreador ..> BaseServicio
+BaseAdministrativaCreador ..> BaseAdministrativa
+
+Escenario *--> GestorBases
+GestorBases *--> BaseCreador
+
+
+@enduml

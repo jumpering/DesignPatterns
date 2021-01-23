@@ -1,0 +1,8 @@
+
+Q
+java:S1068"4Remove this unused "tiempoAsistencia" private field.(èþ¯ˆ8æ¹À·ò.
+U
+java:S5993	"9Change the visibility of this constructor to "protected".(—Èê/8žªË¸ò.
+O
+java:S1068"2Remove this unused "numAmbulancias" private field.(¨¡Ìü8·¢Ò·ò.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚¤Ô¬þÿÿÿÿ8•÷‡¹ò.

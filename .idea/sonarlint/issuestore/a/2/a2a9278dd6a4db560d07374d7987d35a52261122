@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ýý¤³
+.
+java:S1700"Rename field "decorator"(—º˜À
+T
+java:S5993"9Change the visibility of this constructor to "protected".(èžÁÌúÿÿÿÿ
+C
+java:S1068"-Remove this unused "decorator" private field.(—º˜À

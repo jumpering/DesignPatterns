@@ -1,0 +1,20 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚¤Ô¬şÿÿÿÿ8×ö‡¹ò.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(’²ÿ­ûÿÿÿÿ8úÉ…ó.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(¬›¥8Ô­…ó.
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(®“Î„8½§‰ƒó.
+v
+java:S1450"ZRemove the "gestorBases" field and declare it as a local variable in the relevant methods.(Ú¯€8½§‰ƒó.
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(İÂ‚8Î£µ†ó.
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(®“Î„8½×ƒó.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(ôè›è8Ô­…ó.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(àŞ¾ıûÿÿÿÿ8Ô­…ó.
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(¢¨°¹8Ô­…ó.
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(Üò‡úøÿÿÿÿ8Î£µ†ó.
+p
+java:S1450"SRemove the "base" field and declare it as a local variable in the relevant methods.(”„¨©8Áê‰ƒó.
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(åğÉøÿÿÿÿ8Ô­…ó.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ñ¿íşÿÿÿÿÿ8ŸŞ–ó.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(Æı¶8Î£µ†ó.
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(²èŞ‡8Î£µ†ó.
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(¢¨°¹8Ô­…ó.
