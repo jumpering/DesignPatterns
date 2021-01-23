@@ -3,8 +3,6 @@ Enum TiposBases{
 SERVICIO
 ADMINISTRATIVA
 }
-
-
 BaseCreador <|-down- BaseServicioCreador
 BaseCreador <|-down- BaseAdministrativaCreador
 Base <|-down- BaseServicio
@@ -15,5 +13,8 @@ BaseAdministrativaCreador ..> BaseAdministrativa
 Escenario *--> GestorBases
 GestorBases *--> BaseCreador
 
+Escenario ..> TiposBases
 
+Escenario ..> BaseServicioCreador
+Escenario ..> BaseAdministrativaCreador
 @enduml
